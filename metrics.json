@@ -1,0 +1,9 @@
+{
+    "dataset_size": 49582,
+    "training_size": 39665,
+    "testing_size": 9917,
+    "accuracy": 0.9073308460219824,
+    "precision": 0.8959797033567526,
+    "recall": 0.9224432388989351,
+    "f1_score": 0.909018909018909
+}
